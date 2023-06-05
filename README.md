@@ -2,10 +2,6 @@
 Build a machine learning model that is capable of detecting fraudulent transactions.
 
 
-# ![My Remote Image](https:dl=0)
-
-
-
 ### Business problem overview
 
 For many banks, retaining high profitable customers is the number one business goal. Banking fraud, however, poses a significant threat to this goal for different banks. In terms of substantial financial losses, trust and credibility, this is a concerning issue to both banks and customers alike.
