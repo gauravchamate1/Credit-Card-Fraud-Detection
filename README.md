@@ -1,4 +1,10 @@
 # Credit-Card-Fraud-Detection
+
+
+
+![68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d687474707325334125324625324661692d6a6f75726e65792e636f6d25324677702d636f6e74656e7425324675706c6f6164732532463 (1)](https://github.com/gauravchamate1/Credit-Card-Fraud-Detection/assets/40346407/55f8671d-9d45-42fd-97f1-46c54030e638)
+
+
 Build a machine learning model that is capable of detecting fraudulent transactions.
 
 
